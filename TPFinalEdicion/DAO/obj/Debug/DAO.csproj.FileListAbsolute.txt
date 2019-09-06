@@ -1,0 +1,18 @@
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\bin\Debug\DAO.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\bin\Debug\DAO.pdb
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\obj\Debug\DAO.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\DAO\obj\Debug\DAO.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\bin\Debug\DAO.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\bin\Debug\DAO.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\bin\Debug\DAO.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\bin\Debug\DAO.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\DAO\obj\Debug\DAO.pdb

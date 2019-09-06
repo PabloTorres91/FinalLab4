@@ -1,0 +1,6 @@
+Manejar la informacion de fechas con control calendar.
+
+
+La parte de sucursales faltaria completar y hacer algo mas avanzado con respecto a las ventas.
+
+

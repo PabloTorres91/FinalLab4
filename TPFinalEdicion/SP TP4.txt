@@ -1,0 +1,36 @@
+CREATE PROCEDURE actualizarDatosCli
+(
+@DNI varchar(20),
+@NombreCli nchar(10),
+@ApellidoCli nchar(10),
+@FechaNacCli date,
+@MailCli varchar(50),
+@TelefonoCli nchar(20)
+)
+as
+update Clientes
+set
+NombreCli=@NombreCli,
+ApellidoCli=@ApellidoCli,
+FechaNacCli=@FechaNacCli,
+MailCli=@MailCli,
+TelefonoCli=@TelefonoCli
+where DniCli=@DNI
+return 
+go
+
+
+CREATE PROCEDURE actualizarPass
+(
+@DNI varchar(20),
+@newPass varchar(30)
+)
+as 
+update Clientes
+set
+DniCli=@DNI,
+ClaveCli=@newPass
+where DniCli=@DNI
+return 
+go
+

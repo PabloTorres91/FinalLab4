@@ -1,0 +1,300 @@
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csc.exe
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csc.exe.config
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csc.rsp
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csi.exe
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csi.exe.config
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\csi.rsp
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.AppContext.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Console.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Claims.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\vbc.exe
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\vbc.exe.config
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\vbc.rsp
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\pabl0\Desktop\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.pdb
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\PRESENTACION.dll.config
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\PRESENTACION.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\PRESENTACION.pdb
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csc.exe
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csc.exe.config
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csc.rsp
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csi.exe
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csi.exe.config
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\csi.rsp
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.AppContext.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Console.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.AccessControl.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Claims.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\vbc.exe
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\vbc.exe.config
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\vbc.rsp
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csprojResolveAssemblyReference.cache
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.dll
+D:\UTN - Labo 4 2018\TP INTEGRADOR\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csc.exe
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csc.exe.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csc.rsp
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csi.exe
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csi.exe.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\csi.rsp
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.AppContext.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Console.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Claims.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\vbc.exe
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\vbc.exe.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\vbc.rsp
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\NEGOCIO.exe
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\NEGOCIO.exe.config
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\DAO.dll
+C:\Users\pabl0\Desktop\Nueva carpeta\TPFinal\PRESENTACION\bin\DAO.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.exe.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.rsp
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.exe.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.rsp
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.AppContext.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Console.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Claims.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.exe.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.rsp
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\DAO.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.exe.config
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\DAO.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.exe
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.pdb
+C:\Users\pabl0\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csc.rsp
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\csi.rsp
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Console.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\vbc.rsp
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.exe
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\DAO.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\ENTIDAD.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\NEGOCIO.exe.config
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\bin\DAO.pdb
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\Pablo\Desktop\Desktop\TPFinalEdicion\PRESENTACION\obj\Debug\PRESENTACION.pdb
